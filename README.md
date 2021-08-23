@@ -30,7 +30,7 @@ If the user makes errors while selecting any options from dropdown menu as sugge
 
 
 ## Video (YouTube) Tutorial for using pyMPEALab:
-The stepwise process for predicting phase of "Cu0.5NiCoCrAl0.5Fe3.5" MPEA is shown in the YouTube video tutorial at: https://youtu.be/pijwp6rXyYQ
+The stepwise process to predict the phase for an example case of "Cu0.5NiCoCrAl0.5Fe3.5" MPEA is shown in the YouTube video tutorial at: https://youtu.be/pijwp6rXyYQ
 
 
 
