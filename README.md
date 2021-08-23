@@ -4,8 +4,8 @@ pyMPEALab is a python-based Multi-Principle Elements Alloy Laboratory software c
 
 
 ## For Linux User:
-Python with following libraries are needed to run "pyMPEALab.py" : Tensorflow, Pandas, Numpy, Pickle, Sklearn, and tkinter
-pyMPEALab also needs 4 extra supporitng files ("model.h5", "robust_standardization.pkl", "scaler_standardization.pkl" and "pyMPEALab.ico" ) to operate, which are provided together with the main file "pyMPEALab.py" .
+Python with following libraries are needed to run the GUI application: Tensorflow, Pandas, Numpy, Pickle, Sklearn, and tkinter
+pyMPEALab also needs 4 extra supporitng files (1 model file, 2 standardization files, and a icon file) to operate, which will be made available from the author upon reasonable request. 
 
 
 ## For Windows User:
