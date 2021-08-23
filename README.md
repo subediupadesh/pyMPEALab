@@ -16,12 +16,18 @@ Not any extra supporting files are needed to run the application, all the necess
 ## Procedure for using "pyMPEALab" GUI Application:
 
 Step 0. Open / Run "pyMPEALab.py" (for Linux users) & "pyMPEALab.exe" (for Windows users) file to open the GUI application
+
 Step 1. User need to select the No. of Elements/Components in the MPEA whose phase is to be predicted, from the dropdown menu at the top left corner.
 		    After selection of element size/number (from 2 to 10),
+		    
 Step 2. User can select each element of MPEA, one at a time from the drop down menu generated just below "No. of Component" tab
+
 Step 3. After selection of each element a blank space is provided just at the right side of selected element tab where user need to enter the corresponding composition/elemental           fraction of the element.
+
 Step 4. Repeat Step 2 -3 until the last element of the MPEA and it's composition/elemental fraction is entered.
+
 Step 5. Press "Predict Phase" tab to get the prediction along with the physical properties of the entered MPEA displayed in the right side of the GUI application.
+
 Step 6. If user wants to predict the phase for another MPEA, user can click on "Restart" tab at the right top side of GUI application to restart the application instantly.
 
 
