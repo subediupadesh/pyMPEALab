@@ -10,6 +10,8 @@ Python with following libraries are needed to run the GUI application: Tensorflo
 
 
 ## For Windows User:
+Executable (.exe) file: https://github.com/subediupadesh/pyMPEALab/releases/tag/v0.1
+
 User can run "pyMPEALAB_GUI.exe" wihout any softwares to be installed.
 
 
