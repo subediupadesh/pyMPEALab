@@ -45,4 +45,7 @@ The stepwise process to predict the phase for an example case of "Cu0.5NiCoCrAl0
 ## How to cite pyMPEALab libraries:
 If you use pyMPEALab in your research, please cite:
 
-"U. Subedi, A. Kunwar , Y.A. Coutinho, K. Gyanwali . pyMPEALab toolkit for accelerating phase design in multi-principal element alloys. Metals  and Materials International vol, pppp-pppp (2021-2022)." DOI: https://doi.org/10.1007/s12540-021-01100-9
+"U. Subedi, A. Kunwar , Y.A. Coutinho, K. Gyanwali . pyMPEALab toolkit for accelerating phase design in multi-principal element alloys. Metals  and Materials International (2021)." DOI: https://doi.org/10.1007/s12540-021-01100-9
+
+## For the Full Open Access Paper:
+https://link.springer.com/article/10.1007%2Fs12540-021-01100-9
