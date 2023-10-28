@@ -28,7 +28,7 @@ def start_gui():
     global window
     window = tk.Tk()
     window.title("pyMPEALab")
-    window.iconbitmap(resource_path('pyMPEALab.ico'))
+    # window.iconbitmap(resource_path('pyMPEALab.ico'))
 
     # For Title
     l1 = Label(window, text="No. of Components", font='Helvetica 8 bold')
