@@ -14,10 +14,14 @@ Executable (.exe) file: https://github.com/subediupadesh/pyMPEALab/releases/tag/
 
 User can run "pyMPEALAB_GUI.exe" wihout any softwares to be installed.
 
+## For Web App (online use):
+Link to the webapp site: https://pympealab.streamlit.app/ 
+
+To use the webapp, follow the procedure from Step 2 listed belwo
 
 ## Procedure for using "pyMPEALab" GUI Application:
 
-Step 0. Open / Run "pyMPEALab_GUI.py" (for Linux users) & "pyMPEALab_GUI.exe" (for Windows users) file to open the GUI application
+Step 0. Open / Run "pyMPEALab_GUI.py" (for Linux users) | "pyMPEALab_GUI.exe" (for Windows users) file to open the GUI application | Visit https://pympealab.streamlit.app/ to use the WebApp
 
 Step 1. User need to select the No. of Elements/Components in the MPEA whose phase is to be predicted, from the dropdown menu at the top left corner.
 		    After selection of element size/number (from 2 to 10),
