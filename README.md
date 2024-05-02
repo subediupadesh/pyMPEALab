@@ -21,7 +21,7 @@ User can run "pyMPEALAB_GUI.exe" wihout any softwares to be installed.
 ## For Web App (online use):
 Link to the webapp site: https://pympealab.streamlit.app/ 
 
-To use the webapp, follow the procedure from Step 2 listed belwo
+To use the webapp, follow the procedure from Step 2 listed below
 
 ## Procedure for using "pyMPEALab" GUI Application:
 
